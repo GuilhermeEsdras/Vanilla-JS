@@ -120,8 +120,8 @@ Criando e executando um programa simples em JS pelo CMD
      `> node "nome do arquivo".js`
   
   - Exemplo: <br/>
-     `> cd "C:\Users\Guilherme\Documentos\Meus Programas\Haskell\Programa Hello World" // Para ir até a pasta do arquivo .hs` <br/>
-     `> node HelloWorld.hs // Para compilar e executar programa chamado "HelloWorld.js"`
+     `> cd "C:\Users\Guilherme\Documentos\Meus Programas\JavaScript\Programa Hello World" // Para ir até a pasta do arquivo .js` <br/>
+     `> node HelloWorld.js // Para compilar e executar programa chamado "HelloWorld.js"`
 
 ### Criando Projeto Mobile com React Native
 > Em breve...
