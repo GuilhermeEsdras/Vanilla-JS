@@ -123,6 +123,11 @@ Criando e executando um programa simples em JS pelo CMD
      `> cd "C:\Users\Guilherme\Documentos\Meus Programas\JavaScript\Programa Hello World" // Para ir até a pasta do arquivo .js` <br/>
      `> node HelloWorld.js // Para compilar e executar programa chamado "HelloWorld.js"`
 
+### Executando .js no VSCode
+
+1. Baixar extensão [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+2. **CTRL + ALT + N** para executar o *"arquivo"*.js
+
 ### Criando Projeto Mobile com React Native
 > Em breve...
 
@@ -139,6 +144,7 @@ Saída: <br/>
 ## Links Úteis
 - [Node.js](https://nodejs.org/en/) <br/>
 - [React Native](https://facebook.github.io/react-native/)
+- [JSFiddle](https://jsfiddle.net/)
 <!-- -->
 
 <!-- Autor/Contato -->
