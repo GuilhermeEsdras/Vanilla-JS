@@ -2,9 +2,8 @@
 
 ---
 
-1. Crie uma função que retorna a *string* "Olá", concatenada com um argumento *text* (a ser passado para a função) e com ponto de exclamação "!" no final.
+1. Crie uma função que retorna a *string* "Olá", concatenada com um argumento *text* (a ser passado para a função) e com ponto de exclamação "!" no final. <br>
   *Exemplos:*
-
   ```js
   cumprimentar("Guilherme") // retornará "Olá, Guilherme!"
   cumprimentar("Esdras") // retornará "Olá, Esdras!"
