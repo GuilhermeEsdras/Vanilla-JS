@@ -15,17 +15,14 @@
     - <strong>Método 1:</strong> <br>
       <a href="./soluções/1/1.js"><img src="./soluções/1/1.png" width="600" /><a>
     
-    <strong>Método 2:</strong>
-
-    <a href="./soluções/1/1_v2.js"><img src="./soluções/1/1_v2.png" width="600" /><a>
+    - <strong>Método 2:</strong> <br>
+      <a href="./soluções/1/1_v2.js"><img src="./soluções/1/1_v2.png" width="600" /><a>
     
-    <strong>Método 3:</strong>
-
-    <a href="./soluções/1/1_v3.js"><img src="./soluções/1/1_v3.png" width="600" /><a>
+    - <strong>Método 3:</strong> <br>
+      <a href="./soluções/1/1_v3.js"><img src="./soluções/1/1_v3.png" width="600" /><a>
     
-    <strong>Método 4:</strong>
-
-    <a href="./soluções/1/1_v4.js"><img src="./soluções/1/1_v4.png" width="600" /><a>
+    - <strong>Método 4:</strong> <br>
+      <a href="./soluções/1/1_v4.js"><img src="./soluções/1/1_v4.png" width="600" /><a>
     
     </details>
 
