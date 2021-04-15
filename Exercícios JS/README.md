@@ -3,7 +3,6 @@
 ---
 
 1. Crie uma função que retorna a *string* "Olá", concatenada com um argumento *text* (a ser passado para a função) e com ponto de exclamação "!" no final.
-
   *Exemplos:*
 
   ```js
@@ -31,6 +30,7 @@
   <a href="./soluções/1/1_v4.js"><img src="./soluções/1/1_v4.png" width="600" /><a>
   
   </details>
+
 2. Escreva uma função que receba a idade de uma pessoa em anos e retorna a mesma idade em dias.
    > Obs.: considere que um ano tem 365 dias. Desconsidere anos bissextos (com 366 dias) e desconsidere também dias decorridos desde o último aniversário.
 
