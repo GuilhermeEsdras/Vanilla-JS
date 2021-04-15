@@ -12,7 +12,7 @@
   <summary><strong>Resolução</strong></summary>
 
   <strong>Método 1:</strong>
-  [![Solução 1](./soluções/1/1_v1.png "Solução 1")](./soluções/1/1_v1.js)
+  [![Solução 1](./soluções/1/1_v1.png =300x "Solução 1")](./soluções/1/1_v1.js)
   <strong>Método 2:</strong>
   [![Solução 1](./soluções/1/1_v2.png "Solução 1")](./soluções/1/1_v2.js)
   <strong>Método 3:</strong>
