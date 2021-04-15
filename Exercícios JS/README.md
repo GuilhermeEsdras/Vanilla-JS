@@ -2,7 +2,7 @@
 
 ---
 
-1. Crie uma função que retorna a *string* "Olá", concatenada com um argumento *text* (a ser passado para a função) e com ponto de exclamação "!" no final. <br>
+1. Crie uma função que retorna a *string* "Olá", concatenada com um argumento *text* (a ser passado para a função) e com ponto de exclamação "!" no final.
     *Exemplos:*
     ```js
     cumprimentar("Guilherme") // retornará "Olá, Guilherme!"
@@ -13,7 +13,7 @@
 
     <strong>Método 1:</strong>
 
-    <a href="./soluções/1/1_v1.js"><img src="./soluções/1/1_v1.png" width="600" /><a>
+    <a href="./soluções/1/1.js"><img src="./soluções/1/1.png" width="600" /><a>
     
     <strong>Método 2:</strong>
 
@@ -39,10 +39,16 @@
     converterIdadeEmAnosParaDias(70) // retornará 9125
     ```
 
-    <details open>
+    <details closed>
 
     <summary><strong>Solução</strong></summary>
 
-    [![Solução 2](./soluções/2.png "Solução 2")](./soluções/2.js)
+    <strong>Método 1:</strong>
+
+    <a href="./soluções/2/2.js"><img src="./soluções/2/2.png" width="600" /><a>
+    
+    <strong>Método 2:</strong>
+
+    <a href="./soluções/2/2_v2.js"><img src="./soluções/2/2_v2.png" width="600" /><a>
 
     </details>

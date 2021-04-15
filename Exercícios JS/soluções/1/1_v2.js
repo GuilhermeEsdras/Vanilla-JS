@@ -1,7 +1,7 @@
 function cumprimentar(nome) {
-    return "Olá, " + nome + "!"
+    const saudacao = "Olá"
+    return [saudacao, nome].join(', ').concat("!")
 }
-
 
 let result = cumprimentar("Guilherme")
 console.log(result);
