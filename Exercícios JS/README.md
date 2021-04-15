@@ -3,6 +3,7 @@
 ---
 
 1. Crie uma função que retorna a *string* "Olá", concatenada com um argumento *text* (a ser passado para a função) e com ponto de exclamação "!" no final.
+    
     *Exemplos:*
     ```js
     cumprimentar("Guilherme") // retornará "Olá, Guilherme!"
@@ -33,7 +34,6 @@
     > Obs.: considere que um ano tem 365 dias. Desconsidere anos bissextos (com 366 dias) e desconsidere também dias decorridos desde o último aniversário.
 
     *Exemplos:*
-
     ```js
     converterIdadeEmAnosParaDias(25) // retornará 9125
     converterIdadeEmAnosParaDias(70) // retornará 9125
