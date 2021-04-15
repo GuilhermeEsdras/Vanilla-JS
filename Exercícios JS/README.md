@@ -12,7 +12,7 @@
     <details closed>
     <summary><strong>Resolução</strong></summary>
 
-    - <strong>Método 1:</strong>
+    - <strong>Método 1:</strong> <br>
       <a href="./soluções/1/1.js"><img src="./soluções/1/1.png" width="600" /><a>
     
     <strong>Método 2:</strong>
