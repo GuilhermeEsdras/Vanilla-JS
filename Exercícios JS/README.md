@@ -10,8 +10,8 @@
   cumprimentar("Guilherme") // retornará "Olá, Guilherme!"
   cumprimentar("Esdras") // retornará "Olá, Esdras!"
   ```
-  
-  <details open>
+
+  <details closed>
   <summary><strong>Resolução</strong></summary>
 
   <strong>Método 1:</strong>
