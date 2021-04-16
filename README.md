@@ -65,17 +65,17 @@
   - [Studying JavaScript / ECMAScript](#studying-javascript--ecmascript)
     - [Tipos de dados no JavaScript](#tipos-de-dados-no-javascript)
     - [var e let](#var-e-let)
-  - [npm - Node Package Manager](#npm---node-package-manager)
-    - [Iniciar projeto npm / criar arquivo `package.json` no diretório atual](#iniciar-projeto-npm--criar-arquivo-packagejson-no-diretório-atual)
-    - [Instalar módulos node](#instalar-módulos-node)
-    - [Instalando módulo em uma versão específica](#instalando-módulo-em-uma-versão-específica)
-    - [Arquivos](#arquivos)
-    - [Modificações úteis no arquivo `package.json`](#modificações-úteis-no-arquivo-packagejson)
-    - [Instalando todas as dependências (pasta `node_modules`) de um determinado projeto baixado](#instalando-todas-as-dependências-pasta-node_modules-de-um-determinado-projeto-baixado)
-    - [Alguns conceitos e definições](#alguns-conceitos-e-definições)
+- [npm - Node Package Manager](#npm---node-package-manager)
+  - [Iniciar projeto npm / criar arquivo `package.json` no diretório atual](#iniciar-projeto-npm--criar-arquivo-packagejson-no-diretório-atual)
+  - [Instalar módulos node](#instalar-módulos-node)
+  - [Instalando módulo em uma versão específica](#instalando-módulo-em-uma-versão-específica)
+  - [Arquivos](#arquivos)
+  - [Modificações úteis no arquivo `package.json`](#modificações-úteis-no-arquivo-packagejson)
+  - [Instalando todas as dependências (pasta `node_modules`) de um determinado projeto baixado](#instalando-todas-as-dependências-pasta-node_modules-de-um-determinado-projeto-baixado)
+  - [Alguns conceitos e definições](#alguns-conceitos-e-definições)
       - [Frameworks & Bibliotecas](#frameworks--bibliotecas)
-        - [Alguns Exemplos de Bibliotecas JS](#alguns-exemplos-de-bibliotecas-js)
-        - [Alguns Exemplos de Frameworks JS](#alguns-exemplos-de-frameworks-js)
+      - [Alguns Exemplos de Bibliotecas JS](#alguns-exemplos-de-bibliotecas-js)
+      - [Alguns Exemplos de Frameworks JS](#alguns-exemplos-de-frameworks-js)
   - [Outros Links Úteis](#outros-links-úteis)
   - [Autor](#autor)
   - [Licença](#licença)
@@ -194,18 +194,18 @@ Saída: <br/>
 - Variáveis definidas com **var** tem escopo global e escopo de função;
 - Variáveis definidas com **let** tem escopo global, escopo de função e escopo de bloco.
 
-## npm - Node Package Manager
+# npm - Node Package Manager
 
 Alguns comandos, conceitos e definições importantes que vale a pena deixar por aqui.
 
-### Iniciar projeto npm / criar arquivo `package.json` no diretório atual
+## Iniciar projeto npm / criar arquivo `package.json` no diretório atual
 
 `npm init`
 
 Ou, para aceitar/pular todas as "perguntas" no ato da criação:
 `npm init -y`
 
-### Instalar módulos node
+## Instalar módulos node
 
 `npm i --save "nome do modulo"`
 
@@ -213,7 +213,7 @@ Onde:
 - `i` ou `install`: flag que indica a instalação de um módulo
 - `save`: cria dependência no arquivo `package.json`
 
-### Instalando módulo em uma versão específica
+## Instalando módulo em uma versão específica
 
 `npm i --save-dev "nome do modulo"@1.23.4 -E`
 
@@ -223,12 +223,12 @@ Onde:
 - `@1.23.4`: versão do módulo desejada.
 - `-E`: flag para *"exata" (Exactly)* significando que você quer exatamente essa versão.
 
-### Arquivos
+## Arquivos
 
 - `package.json`: ficam todas as informações e versões do projeto.
 - `package-lock.json`: é importante, deve ser enviada no git, pois ficam as informações dos pacotes/módulos e suas versões exatas que devem ser baixadas ao instalar o projeto em um local sem os dados da pasta `node_modules`.
   
-### Modificações úteis no arquivo `package.json`
+## Modificações úteis no arquivo `package.json`
 
 - `"main"`: é o arquivo principal do projeto.
 - `"scripts"`: "palavras chave" que quando usadas no terminal, invocam algum comando pré-definido/especificado nesta seção.
@@ -239,17 +239,17 @@ Onde:
 
   Scripts personalizados devem ser chamados usando `npm run "nome do script"`
 
-### Instalando todas as dependências (pasta `node_modules`) de um determinado projeto baixado
+## Instalando todas as dependências (pasta `node_modules`) de um determinado projeto baixado
 
 `npm i`
 
-### Alguns conceitos e definições
+## Alguns conceitos e definições
 
 #### Frameworks & Bibliotecas
 
 Basicamente, uma Biblioteca é um conjunto de funcionalidades e recursos que podem ser utilizados em uma aplicação à partir da importação do módulo referente a tal biblioteca, para dar uma maior gama de possibilidades e facilitar no desenvolvimento desta aplicação.
 
-##### Alguns Exemplos de Bibliotecas JS
+#### Alguns Exemplos de Bibliotecas JS
 
 - [Axios](https://github.com/axios/axios)
 - [Gulp.js](https://gulpjs.com/)
@@ -258,7 +258,7 @@ Basicamente, uma Biblioteca é um conjunto de funcionalidades e recursos que pod
 
 Já um Framework, que pode ser traduzido como "arcabouço", é utilizado como base ou estrutura de um projeto/aplicação, e que pode ser utilizado para construir e organizar o projeto inteiro, seguindo toda a estruturação, configurações e preceitos que este Framework estabelece.
 
-##### Alguns Exemplos de Frameworks JS
+#### Alguns Exemplos de Frameworks JS
 
 <p align="center">
   <b>Voltadas para Backend</b>
