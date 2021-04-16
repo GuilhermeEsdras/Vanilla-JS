@@ -251,10 +251,10 @@ Basicamente, uma Biblioteca é um conjunto de funcionalidades e recursos que pod
 
 ##### Alguns Exemplos de Bibliotecas JS
 
-- Axios
-- Gulp.js
-- jQuery
-- Lodash
+- [Axios](https://github.com/axios/axios)
+- [Gulp.js](https://gulpjs.com/)
+- [jQuery](https://jquery.com/)
+- [Lodash](https://lodash.com/)
 
 Já um Framework, que pode ser traduzido como "arcabouço", é utilizado como base ou estrutura de um projeto/aplicação, e que pode ser utilizado para construir e organizar o projeto inteiro, seguindo toda a estruturação, configurações e preceitos que este Framework estabelece.
 
