@@ -73,7 +73,7 @@
   - [Modificações úteis no arquivo `package.json`](#modificações-úteis-no-arquivo-packagejson)
   - [Instalando todas as dependências (pasta `node_modules`) de um determinado projeto baixado](#instalando-todas-as-dependências-pasta-node_modules-de-um-determinado-projeto-baixado)
   - [Alguns conceitos e definições](#alguns-conceitos-e-definições)
-      - [Frameworks & Bibliotecas](#frameworks--bibliotecas)
+    - [Frameworks & Bibliotecas](#frameworks--bibliotecas)
       - [Alguns Exemplos de Bibliotecas JS](#alguns-exemplos-de-bibliotecas-js)
       - [Alguns Exemplos de Frameworks JS](#alguns-exemplos-de-frameworks-js)
   - [Outros Links Úteis](#outros-links-úteis)
@@ -245,7 +245,7 @@ Onde:
 
 ## Alguns conceitos e definições
 
-#### Frameworks & Bibliotecas
+### Frameworks & Bibliotecas
 
 Basicamente, uma Biblioteca é um conjunto de funcionalidades e recursos que podem ser utilizados em uma aplicação à partir da importação do módulo referente a tal biblioteca, para dar uma maior gama de possibilidades e facilitar no desenvolvimento desta aplicação.
 
