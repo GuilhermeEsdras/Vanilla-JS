@@ -1,0 +1,27 @@
+{
+  "name": "vanilla-js",
+  "version": "1.0.0",
+  "description": "Learning js repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeEsdras/Vanilla-JS.git"
+  },
+  "keywords": [
+    "learning",
+    "js",
+    "gui"
+  ],
+  "author": "Guilherme Esdras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeEsdras/Vanilla-JS/issues"
+  },
+  "homepage": "https://github.com/GuilhermeEsdras/Vanilla-JS#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
