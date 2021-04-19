@@ -46,18 +46,3 @@
     <a href="./soluções/2/2_v2.js"><img src="./soluções/2/2_v2.png" width="600" /><a>
 
     </details>
-
-3. Esoaosdo
-
-  *Exemplos:*
-  ```js
-  lsadlaldasdl
-  ```
-  <details closed>
-
-  <summary><strong>Resolução</strong></summary>
-
-  - <strong>Método 1:</strong> <br>
-  <a href="./soluções/1/1.js"><img src="./soluções/1/1.png" width="600" /><a>
-
-  </details>
