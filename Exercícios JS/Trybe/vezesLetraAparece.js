@@ -9,7 +9,9 @@
 
 function vezesLetraAparece(frase, letra) {
     // Escreva seu código aqui
-    return frase.split(`${letra}`)
+    return frase // .toLowerCase() <- caso queira ignorar maiúsculas e minúsculas (anti-case sensitive)
+            .split(`${letra}`).length - 1
 }
 
-console.log(vezesLetraAparece("Guilherme", "e"));
+/* .::Meus Testes::. */
+console.log(vezesLetraAparece("Avada kedavra", "a"));

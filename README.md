@@ -278,13 +278,13 @@ Já um Framework, que pode ser traduzido como "arcabouço", é utilizado como ba
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png" width="200" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width="100" /> | <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png" width="200" /> | <img src="https://3lhowb48prep40031529g5yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/logo-vuejs-min.png" width="170" /> |
 | `$ npm install -g @angular/cli` | [`clique`](https://nextjs.org/learn/basics/create-nextjs-app/setup) | `$ npx create-react-app my-app` | `$ npm install vue` |
 
----
 
-<h2 align="center"> Express.js </h2>
+
+<!-- <h2 align="center"> Express.js </h2>
 <p align="center">
   Como este repositório foi criado com a finalidade de estudar o <i>"vanilla"</i> JavaScript e focar na parte do Backend usando o Node, nada mais justo que dedicar uma parte dos estudos para aprender sobre, provavelmente, o Framework Backend mais utilizado. <br>
   <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" width="200" />
-</p>
+</p> -->
 
 
 

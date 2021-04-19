@@ -7,9 +7,10 @@
 
 function somaDeGauss(numeroMaximo) {
     // Escreva seu código aqui
-    var soma, i = numeroMaximo
+    var soma = numeroMaximo, i = numeroMaximo
     while (i--) soma += i
     return soma;
 }
 
+/* .::Meus Testes::. */
 console.log(somaDeGauss(10));
