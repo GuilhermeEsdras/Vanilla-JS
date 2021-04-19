@@ -46,3 +46,4 @@
     <a href="./soluções/2/2_v2.js"><img src="./soluções/2/2_v2.png" width="600" /><a>
 
     </details>
+
