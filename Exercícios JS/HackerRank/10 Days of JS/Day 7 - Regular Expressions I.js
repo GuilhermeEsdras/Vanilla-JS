@@ -6,7 +6,6 @@ function regexVar() {
     
     var re = /^([aeiou]).*\1$/
     
-    
     /*
      * Do not remove the return statement
      */
