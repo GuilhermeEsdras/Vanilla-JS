@@ -1,1 +1,1 @@
-console.log(Math.ceil(1.002));
+console.log(Math.ceil(1.002)); // arredonda pra 2
